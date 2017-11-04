@@ -1,0 +1,12 @@
+# Type the gdb commands you want to 
+# execute by default
+#
+# Ex:
+# b syscall_handler
+#
+# ----- Insert Below -----
+b main
+
+
+# Always end with this to attach to debugger
+debugPintos
